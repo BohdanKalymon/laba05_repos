@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: laba51, Configuration: Debug Win32 ------
+1>A task was canceled.
+1>A task was canceled.
+2>------ Build started: Project: UnitTest2, Configuration: Debug Win32 ------
+2>A task was canceled.
+2>A task was canceled.
+========== Build: 0 succeeded, 2 failed, 0 up-to-date, 0 skipped ==========
